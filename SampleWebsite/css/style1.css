@@ -1,0 +1,17 @@
+.heading{
+    color: rgb(238, 172, 167);
+    text-decoration: underline;
+    text-decoration-color: brown;
+    text-decoration-style: dashed;
+    font-style: italic;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+p{
+   /* word-spacing: 30px;
+    letter-spacing: 5px; */
+    line-height: 40px;
+    font-weight: bold;
+
+}
