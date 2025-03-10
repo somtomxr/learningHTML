@@ -20,3 +20,6 @@ selectors - use html elements to select tag
   - id selectors --#idname
   - universal selectors --*
   - grouping selectors
+
+
+  div tag-its a block elemnt used to divide webpage

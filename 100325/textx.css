@@ -1,0 +1,19 @@
+.main{
+    text-shadow: 3px 4px 5px rgba(149, 69, 69, 0.569);
+}
+.container{
+    background-color: rgba(255, 235, 205, 0.621);
+   
+    padding-top: 10px;
+    padding-left: 30px;
+    padding-bottom: 30px;
+    margin-bottom: 20px;
+    border-left: 3px solid rgb(200, 131, 46);
+    
+}
+.container1{
+    background-color: rgba(157, 120, 76, 0.357);
+    padding: 30px; /*all four side equally*/
+    border: 3px solid rgb(91, 56, 8);
+    border-radius: 20 px;
+}
