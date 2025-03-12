@@ -1,0 +1,25 @@
+section{
+    background-color: rgb(186, 169, 115);
+    display: flex;
+    justify-content: space-evenly; 
+    align-items: center;
+    padding: 120px;
+    
+
+}
+.text{
+    font-size: 25px;
+
+}
+
+.pic{
+
+
+}
+button{
+    background-color: orangered;
+    border: none;
+    border-radius: 20px;
+}
+h3{
+font-family: cursive;}

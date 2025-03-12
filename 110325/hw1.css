@@ -1,0 +1,33 @@
+section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 100px;
+
+
+}
+
+.pic img{
+height: 500px;
+}
+
+.text{
+
+}
+
+button{
+    background-color: orangered;
+    border: 10px ;
+    border: solid 1px;
+    height: 30px;
+    width: 90px;
+       /* text color
+       border
+       move botton location */
+       
+
+}
+h1{
+    font-size: 32px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}

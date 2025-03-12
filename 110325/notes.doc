@@ -1,0 +1,9 @@
+
+Display flex-
+       justify content:flex-start
+                       flex-center
+                       flex-end
+                       space-evenly
+                       space-between
+                       space-around
+        align-items: center            

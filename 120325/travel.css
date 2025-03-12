@@ -1,0 +1,27 @@
+section{
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+
+div{
+
+   
+
+}
+
+.image img{
+size: 10px;}
+
+
+
+
+
+button{
+    border: solid;
+    border-radius: 20px;
+    background-color: blue;
+    color: whitesmoke;
+
+}
