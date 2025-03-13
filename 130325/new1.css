@@ -1,0 +1,31 @@
+body{
+display: flex;
+justify-content: center;
+}
+
+.one{
+    height: 500px;
+    width: 500px;
+    display: flex;
+    justify-content: center;
+
+
+    background-image: url(cake1.jpg);
+    flex-direction: column;
+    background-size: cover;
+
+    border-radius: 20px;
+    
+
+}
+
+h1{
+    text-align: center;
+    
+   
+}
+
+p{
+    text-align: center;
+    color: bisque;
+}
