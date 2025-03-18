@@ -23,3 +23,7 @@ selectors - use html elements to select tag
 
 
   div tag-its a block elemnt used to divide webpage
+
+
+  fonts--font awesome
+         to link- copy link from font awesome cdn (from cdnjs.com website)
