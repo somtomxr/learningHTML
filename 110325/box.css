@@ -2,7 +2,7 @@
     background-color: black;
     height: 300px;
     width: 300px;
-    box-shadow: 3px 4px 12px 6px rgb(255, 77, 0); /*horo vert blur spread color*/
+    box-shadow: 3px 4px 12px 6px rgb(255, 77, 0); /*hor vert blur spread color*/
     border-top-left-radius: 60px;
     border-bottom-left-radius: 60px;
 

@@ -1,0 +1,14 @@
+.container{
+    height: 100px;
+    background-color: aqua;
+    margin-top: 100px;
+
+}
+
+.sub{
+    height: 20px;
+    width: 30px;
+    background-color: rgb(4, 15, 15);
+    position: absolute;
+    top: 50px;
+}

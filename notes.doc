@@ -1,0 +1,71 @@
+HTML
+
+Markup language is understood by browser.
+No chances of errors.
+
+
+-used to provide structure/layout to websites.
+
+Tags(reserved words) are used to design website structure. 
+Types:
+1. Container <tag>empty </tag>. [ex-  ]
+2. Empty <tag>
+
+Basic Struccture
+<html>
+  <head>
+     <title> website title </title>
+  </head>
+ <body>
+   ///code goes here
+ </body>
+</html>
+
+
+
+CSS - cascading style sheet
+-inline
+-page
+-website
+
+
+text decoration style - wavy
+                      - dotted
+                      - solid
+                      - double
+                      - dashed
+
+ Display flex-
+       justify content:flex-start
+                       flex-center
+                       flex-end
+                       space-evenly
+                       space-between
+                       space-around
+        align-items: center                                 
+
+                    
+
+
+
+selectors - use html elements to select tag
+  - tag selectors --tagname
+  - class selectors --.classname
+  - id selectors --#idname
+  - universal selectors --*
+  - grouping selectors
+
+
+  div tag-its a block elemnt used to divide webpage
+
+
+  fonts--font awesome
+         to link- copy link from font awesome cdn (from cdnjs.com website)
+
+
+
+postiion of division-static--(attr: top,right,left,bottom)
+                    -relative--is dependent on parent(attr: top,right,left,bottom)
+                    -sticky--is dependent on parent(attr: top,right,left,bottom)
+                    -fixed(attr: top,right,left,bottom)
+                    -absolute--works from body(attr: top,right,left,bottom)
