@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.divcollection{
+    background-color: rgb(153, 189, 220);
+    display: grid;
+    grid-template-columns: auto auto;
+    height: 200vh;
+    
+
+}
+
+.div1,.div2,.div3,.div4,.div5,.div6{
+    background-color: rgb(191, 149, 149);
+    border: 1px solid rgb(106, 86, 86);
+    margin: 20px;
+    
+}
+.div1{
+    grid-column-start: 1;
+    grid-column-end: 3;
+    grid-row-start: 1;
+    grid-row-end: 3;
+}
