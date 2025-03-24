@@ -1,0 +1,12 @@
+.First{
+    border: 1px solid black;
+}
+.First h2:first-child{
+    background-color: aqua;
+}
+.Second h2:last-child{
+    background-color: bisque;
+}
+.Third h2:nth-child(even){
+    background-color: aliceblue;
+}

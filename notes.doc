@@ -69,3 +69,6 @@ postiion of division-static--(attr: top,right,left,bottom)
                     -sticky--is dependent on parent(attr: top,right,left,bottom)
                     -fixed(attr: top,right,left,bottom)
                     -absolute--works from body(attr: top,right,left,bottom)
+
+Pseudo Selectors: -Pseudo Class selector represented by :
+                  -Pseudo Element selector represented by :: 
