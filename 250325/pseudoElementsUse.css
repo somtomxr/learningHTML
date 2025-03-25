@@ -1,0 +1,19 @@
+.para::first-letter{
+    font-size: 50px;
+    color: brown;
+}
+.para::first-line{
+    font-weight: bolder;
+}
+.name::after{
+    content: " Tomar";
+    color: rgb(18, 97, 97);
+}
+.name::before{
+    content: "Mr. ";
+    color: rgb(138, 88, 188);
+}
+
+input::placeholder{
+    color: red;
+}

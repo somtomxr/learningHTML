@@ -72,3 +72,6 @@ postiion of division-static--(attr: top,right,left,bottom)
 
 Pseudo Selectors: -Pseudo Class selector represented by :
                   -Pseudo Element selector represented by :: 
+
+
+Media Query--use to make website responsive

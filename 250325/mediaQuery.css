@@ -1,0 +1,7 @@
+/* media screeen have---min-width and max-width */
+@media screen and (min-width:400px) and (max-width:700px) {  
+    body{
+        background-color: brown;
+    }
+    
+} 

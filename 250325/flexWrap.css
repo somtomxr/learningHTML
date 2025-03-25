@@ -1,0 +1,9 @@
+.parent{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: bisque;
+    flex-wrap: wrap;
+    
+    align-items: center;
+}
+
