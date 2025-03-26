@@ -1,0 +1,30 @@
+.navbar{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: burlywood;
+    
+}
+.navbar ul{
+    display: flex;
+    list-style: none;
+    gap: 30px;
+}
+
+.navbar label{
+    display: none;
+    
+}
+
+#click:checked~.navbar ul{
+    display: block;
+}
+
+@media screen and (max-width:650px) {
+    .navbar label{
+        display: block;
+    }
+    .navbar ul{
+        display: none;
+    }
+}

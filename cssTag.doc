@@ -1,0 +1,79 @@
+HTML Attributes Tree:
+├── Document Structure
+│   ├── <html>: lang
+│   ├── <head>: title, meta (charset, name, content)
+│   └── <body>: [No attributes]
+├── Text & Content
+│   ├── <h1>: [No attributes]
+│   ├── <p>: [No attributes]
+│   ├── <b>, <i>, <strong>, <em>: [No attributes]
+├── Tables
+│   ├── <table>, <tr>, <td>, <th>: [No attributes]
+├── Forms
+│   ├── <form>: action, method
+│   ├── <input>: type (text, email, password, file), name, placeholder
+│   ├── <select>: name
+│   │   └── <option>: value
+│   └── <textarea>: rows, cols
+├── Links
+│   └── <a>: href
+└── Miscellaneous Tags
+    ├── <div>, <span>: [No attributes]
+
+
+
+    HTML Attributes Tree:
+├── Document Structure (Welcome.html, external.html)
+│   ├── <html>: lang
+│   ├── <head>
+│   │   ├── <title>: [No attributes]
+│   │   ├── <meta>: charset, name, content
+│   │   └── <link>: rel (stylesheet), href, type (text/css)
+│   └── <body>: [No attributes]
+├── Text & Content (Welcome.html, external.html)
+│   ├── <h1>: [No attributes]
+│   └── <p>: [No attributes]
+
+
+
+HTML Attributes Tree:
+├── Document Structure
+│   ├── <html>: lang
+│   ├── <head>: title, meta (charset, name, content)
+│   └── <body>: [No attributes]
+├── Text & Content
+│   ├── <h1>, <h2>, <h3>, <p>: class, id
+│   ├── <b>, <i>, <strong>, <em>: [No attributes]
+├── Tables
+│   ├── <table>, <tr>, <td>, <th>: [No attributes]
+├── Forms
+│   ├── <form>: action, method
+│   ├── <input>: type (text, email, password, file), name, placeholder
+│   ├── <select>: name
+│   │   └── <option>: value
+│   └── <textarea>: rows, cols
+├── Links
+│   └── <a>: href
+└── Miscellaneous Tags
+    ├── <div>, <span>: class, id
+
+
+    CSS Properties Tree:
+├── Typography
+│   ├── font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+│   ├── font-style: italic;
+│   ├── font-weight: bold;
+│   ├── text-align: center;
+│   ├── text-decoration: underline;
+│       ├─ text-decoration-color: brown;
+│       └─ text-decoration-style: dashed;
+├── Colors & Backgrounds
+│   └── color: rgb(238, 172, 167);
+├── Spacing & Layout (Commented Out)
+│   ├─ word-spacing: 30px; (commented)
+│   ├─ letter-spacing: 5px; (commented)
+│   └─ line-height: 40px;
+
+
+
+
