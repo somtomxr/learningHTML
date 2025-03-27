@@ -9,6 +9,7 @@
     display: flex;
     list-style: none;
     gap: 30px;
+
 }
 
 .navbar label{
@@ -20,11 +21,30 @@
     display: block;
 }
 
-@media screen and (max-width:650px) {
+@media screen and (max-width:500px) {
     .navbar label{
         display: block;
     }
     .navbar ul{
         display: none;
     }
+    .navbar ul{
+        display: none;
+        position: absolute;
+        top: 100px;
+        background-color: beige;
+        width: 100%;
+       
+    }
+    .navbar ul li{
+        padding: 20px;
+        
+    }
+
+   
+
+}
+
+#click{
+    display: none;
 }
