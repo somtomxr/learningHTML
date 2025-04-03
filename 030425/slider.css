@@ -1,0 +1,13 @@
+.main{
+    display: grid;
+    grid-template-columns: repeat(10, 300px);
+    overflow: scroll;
+    scrollbar-width: none;
+    
+}
+
+.main .box2{
+    height: 300px;
+    width: 300px;
+    border: 1px solid red;
+}

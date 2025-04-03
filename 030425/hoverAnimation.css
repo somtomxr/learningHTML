@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+#container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    
+
+}
+#container .box1{
+    height: 300px;
+    width: 300px;
+    border: 2px solid black;
+    animation: changebgcolor 5s ease infinite;
+    transition: all 1s ease;
+
+
+}
+
+#container .box1:hover{
+    background-color: rgba(225, 166, 166, 0.632);
+    transform: rotateY(57deg) scale(1.5) ;
+
+}
