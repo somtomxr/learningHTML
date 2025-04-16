@@ -17,11 +17,9 @@
     
 }
 
-#click:checked~.navbar ul{
-    display: block;
-}
 
-@media screen and (max-width:500px) {
+
+@media screen and (max-width:800px) {
     .navbar label{
         display: block;
     }
@@ -40,6 +38,12 @@
         padding: 20px;
         
     }
+    #click:checked~.navbar ul{
+        display: block;
+    }
+
+    
+    
 
    
 
